@@ -1,4 +1,4 @@
 ﻿location,source,target,ID,fuzzy,context,translator_comments, developer_comments
-Continue,Вернуться в игру,tgt1,id1,fuzzy1,context1,translator_comments1, developer_comments1
-MainMenu,Сохранить и выйти,tgt2,id2,fuzzy2,context2,translator_comments2, developer_comments2
-Settings,Настройки,tgt3,id3,fuzzy3,context3,translator_comments3, developer_comments3
+,,Вернуться в игру,,,Continue,, 
+,,Сохранить и выйти,,,MainMenu,,
+,,Настройки,,,Settings,, 
