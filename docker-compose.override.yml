@@ -1,0 +1,13 @@
+services:
+  weblate:
+    ports:
+      - 80:8080
+    environment:
+      WEBLATE_EMAIL_HOST: smtp.example.com
+      WEBLATE_EMAIL_HOST_USER: user
+      WEBLATE_EMAIL_HOST_PASSWORD: pass
+      WEBLATE_SERVER_EMAIL: weblate@example.com
+      WEBLATE_DEFAULT_FROM_EMAIL: weblate@example.com
+      WEBLATE_SITE_DOMAIN: weblate.example.com
+      WEBLATE_ADMIN_PASSWORD: 23MzVJHvre9KT54C4YvcjY
+      WEBLATE_ADMIN_EMAIL: andrew.belousoff@midhard.com
