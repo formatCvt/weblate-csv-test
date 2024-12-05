@@ -1,4 +1,4 @@
-location,source,target,ID,fuzzy,context,translator_comments, developer_comments
-,,Вернуться в игру,,,Continue,, 
-,,Сохранить и выйти,,,MainMenu,,
-,,Настройки,,,Settings,, 
+"location","source","target","ID","fuzzy","context","translator_comments"," developer_comments"
+"","Вернуться в игру","Вернуться в игру","","False","Continue","",""
+"","Сохранить и выйти","Вернуться в игру","","False","MainMenu","",""
+"","Настройки","Настройки","","False","Settings","",""
