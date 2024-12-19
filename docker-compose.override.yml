@@ -30,6 +30,7 @@ services:
     #   - LT_API_KEYS_DB_PATH=/app/db/api_keys.db # Same result as `db/api_keys.db` or `./db/api_keys.db`
     ## Uncomment these vars and libretranslate_models volume to optimize loading time.
        - LT_UPDATE_MODELS=true
+       - ARGOS_DEBUG=1
     #   - LT_LOAD_ONLY=en,fr
     volumes:
         - lt-db:/app/db
